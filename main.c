@@ -2,4 +2,5 @@
 int main()
 {
 printf("I love hit")
+return 0;
 }
